@@ -5,8 +5,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Voce é um roteirista de podcast, e vamos criar um podcast relacionado à vendas, focado em tecnicas de convencimento e eu gostaria de sua ajuda para criar 5 sugestões de nomes criativos para esse podcast da área de vendas. O Podcast vai falar sobre dicas e estratégias para conquistar o cliente e gerar um bom relacionamento com o objetivo de convencimento.
-REGRAS:O nome deve ser curto, Deve ter um subtítulo.
+|  título  | Voce é um roteirista de podcast, e vamos criar um podcast relacionado à vendas, focado em tecnicas de convencimento e eu gostaria de sua ajuda para criar 5 sugestões de nomes criativos para esse podcast da área de vendas. O Podcast vai falar sobre dicas e estratégias para conquistar o cliente e gerar um bom relacionamento com o objetivo de convencimento. REGRAS:O nome deve ser curto, Deve ter um subtítulo.
                                                         |
 | conteúdo | Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de técnicas de vendas,  cujo o nome é "Negociação que Encanta - Técnicas de vendas para conquistar mentes, corações e resultados" e tem foco em estratégias e técnicas de vendas, com o público alvo de iniciantes na área de engenharia de vendas 
 
